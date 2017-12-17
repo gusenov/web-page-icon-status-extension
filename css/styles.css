@@ -19,4 +19,8 @@ https://habrahabr.ru/company/edison/blog/344878/
 
 
 
+#wrapper {
+    width: 587px;
+}
+
 img { cursor: pointer; }

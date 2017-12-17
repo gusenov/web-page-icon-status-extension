@@ -76,11 +76,6 @@ declare -a arr=(
 "icons.iconarchive.com/icons/fatcow/farm-fresh/24/bullet-magnify-icon.png"
 "icons.iconarchive.com/icons/fatcow/farm-fresh/32/bullet-magnify-icon.png"
 
-# http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/cigarette-icon.html
-"icons.iconarchive.com/icons/fatcow/farm-fresh/16/cigarette-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/24/cigarette-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/32/cigarette-icon.png"
-
 # http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/cross-icon.html
 "icons.iconarchive.com/icons/fatcow/farm-fresh/16/cross-icon.png"
 "icons.iconarchive.com/icons/fatcow/farm-fresh/24/cross-icon.png"
@@ -100,21 +95,6 @@ declare -a arr=(
 "icons.iconarchive.com/icons/fatcow/farm-fresh/16/door-open-icon.png"
 "icons.iconarchive.com/icons/fatcow/farm-fresh/24/door-open-icon.png"
 "icons.iconarchive.com/icons/fatcow/farm-fresh/32/door-open-icon.png"
-
-# http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/drink-icon.html
-"icons.iconarchive.com/icons/fatcow/farm-fresh/16/drink-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/24/drink-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/32/drink-icon.png"
-
-# http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/drink-empty-icon.html
-"icons.iconarchive.com/icons/fatcow/farm-fresh/16/drink-empty-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/24/drink-empty-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/32/drink-empty-icon.png"
-
-# http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/emotion-bloody-icon.html
-"icons.iconarchive.com/icons/fatcow/farm-fresh/16/emotion-bloody-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/24/emotion-bloody-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/32/emotion-bloody-icon.png"
 
 # http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/exclamation-icon.html
 "icons.iconarchive.com/icons/fatcow/farm-fresh/16/exclamation-icon.png"
@@ -190,11 +170,6 @@ declare -a arr=(
 "icons.iconarchive.com/icons/fatcow/farm-fresh/16/folder-green-icon.png"
 "icons.iconarchive.com/icons/fatcow/farm-fresh/24/folder-green-icon.png"
 "icons.iconarchive.com/icons/fatcow/farm-fresh/32/folder-green-icon.png"
-
-# http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/folder-heart-icon.html
-"icons.iconarchive.com/icons/fatcow/farm-fresh/16/folder-heart-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/24/folder-heart-icon.png"
-"icons.iconarchive.com/icons/fatcow/farm-fresh/32/folder-heart-icon.png"
 
 # http://www.iconarchive.com/show/farm-fresh-icons-by-fatcow/folder-key-icon.html
 "icons.iconarchive.com/icons/fatcow/farm-fresh/16/folder-key-icon.png"

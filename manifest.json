@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Web Page Icon Status",
-  "version": "0.0.0.1",
+  "version": "0.0.0.2",
   "description": "This extension is a easy way to set an icon to a page.",
   "icons": {
     "16": "images/icons.iconarchive.com/icons/paomedia/small-n-flat/16/tag-alt-icon.png",
