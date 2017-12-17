@@ -1,0 +1,12 @@
+{
+  "description": "This extension is a easy way to set an icon to a page.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusenov/web-page-icon-status-extension.git"
+  },
+  "homepage": "https://github.com/gusenov/web-page-icon-status-extension#readme",
+  "license": "MIT",
+  "dependencies": {
+    "utils4js": "^0.1.7"
+  }
+}

@@ -1,2 +1,1 @@
-# web-page-icon-status-extension
-Chromium-расширение для назначения иконок веб-страницам.
+<kbd>![Set an Icon for a Page](images/screenshot-image.png)</kbd>
